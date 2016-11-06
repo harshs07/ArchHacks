@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pfrecords</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="signup">SignUp</string>
+    <string name="username">Username</string>
+    <string name="welcome_to_pfizer">Welcome to Pfizer</string>
+    <string name="thank_you_for_registering">Thank you for registering,</string>
+</resources>
